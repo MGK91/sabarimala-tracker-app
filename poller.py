@@ -889,8 +889,9 @@ class PollerApp:
             "latest_alerts": [asdict(a) for a in alerts[:30]],
             "all_alerts": [asdict(a) for a in alerts]
         }
-        pwa_path = Path("pwa/data.json")
-        pwa_path.parent.mkdir(exist_ok=True)
+        
+        pwa_path = Path("data.json")
+
         with open(pwa_path, "w") as f:
             json.dump(pwa_data, f, indent=2)
 
