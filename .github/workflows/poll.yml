@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json pwa/data.json
+          git add state.json data.json
           git diff --cached --quiet || git commit -m "Route risk update $(date -u +%Y-%m-%d-%H:%M UTC)"
           git push
