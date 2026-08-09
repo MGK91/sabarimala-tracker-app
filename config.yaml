@@ -11,7 +11,7 @@ whatsapp:
   mode: "cloud_api"
   access_token: "${WHATSAPP_ACCESS_TOKEN}"
   phone_number_id: "${WHATSAPP_PHONE_NUMBER_ID}"
-  recipient_phone: "919876543210"
+  recipient_phone: "919566350879"
   webhook_url: ""
   webhook_secret: ""
   click_to_chat_number: "919876543210"
