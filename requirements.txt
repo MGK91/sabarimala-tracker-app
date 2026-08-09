@@ -1,0 +1,4 @@
+requests>=2.31.0
+pyyaml>=6.0.1
+python-telegram-bot>=20.0
+xmltodict>=0.13.0

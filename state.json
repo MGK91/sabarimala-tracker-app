@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "last_run": null,
+  "last_digest": null,
+  "districts": {
+    "Idukki": { "level": "green", "since": null, "sources": [], "rainfall_24h": 0, "rainfall_3d": 0, "rainfall_7d": 0, "river_level": null, "river_trend": "steady", "landslide_risk": "low" },
+    "Pathanamthitta": { "level": "green", "since": null, "sources": [], "rainfall_24h": 0, "rainfall_3d": 0, "rainfall_7d": 0, "river_level": null, "river_trend": "steady", "landslide_risk": "low" },
+    "Theni": { "level": "green", "since": null, "sources": [], "rainfall_24h": 0, "rainfall_3d": 0, "rainfall_7d": 0, "river_level": null, "river_trend": "steady", "landslide_risk": "low" },
+    "Kottayam": { "level": "green", "since": null, "sources": [], "rainfall_24h": 0, "rainfall_3d": 0, "rainfall_7d": 0, "river_level": null, "river_trend": "steady", "landslide_risk": "low" },
+    "Ernakulam": { "level": "green", "since": null, "sources": [], "rainfall_24h": 0, "rainfall_3d": 0, "rainfall_7d": 0, "river_level": null, "river_trend": "steady", "landslide_risk": "low" }
+  },
+  "alerts": [],
+  "source_hashes": {
+    "sachet": null,
+    "imd": null,
+    "gsi": null,
+    "kerala_sdma": null,
+    "incois": null,
+    "cwc": null,
+    "open_meteo": null
+  },
+  "notifications_sent": [],
+  "route_points": {}
+}

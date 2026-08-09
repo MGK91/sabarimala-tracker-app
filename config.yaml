@@ -1,0 +1,171 @@
+# Sabarimala Risk Poller — Chennai to Sabarimala Route Monitoring
+
+# --- Telegram Notifications ---
+telegram:
+  bot_token: "${TELEGRAM_BOT_TOKEN}"
+  chat_id: "${TELEGRAM_CHAT_ID}"
+
+# --- WhatsApp Notifications ---
+whatsapp:
+  enabled: true
+  mode: "cloud_api"
+  access_token: "${WHATSAPP_ACCESS_TOKEN}"
+  phone_number_id: "${WHATSAPP_PHONE_NUMBER_ID}"
+  recipient_phone: "919876543210"
+  webhook_url: ""
+  webhook_secret: ""
+  click_to_chat_number: "919876543210"
+
+# --- ntfy.sh Fallback ---
+ntfy:
+  topic: "sabarimala-risk"
+
+# --- Rainfall Thresholds (Western Ghats landslide triggers) ---
+thresholds:
+  daily_max: 115        # 24h mm — red alert
+  three_day_max: 200   # 3-day antecedent mm — red alert
+  seven_day_max: 350    # 7-day accumulated mm — red alert
+
+# --- Districts (for aggregation and alerts) ---
+districts:
+  - name: "Idukki"
+    locations:
+      - name: "Kumily"
+        lat: 9.6000
+        lon: 77.1667
+      - name: "Vandiperiyar"
+        lat: 9.5167
+        lon: 77.0833
+      - name: "Gavi"
+        lat: 9.3833
+        lon: 77.0500
+    weight: 1.0
+  - name: "Pathanamthitta"
+    locations:
+      - name: "Erumely"
+        lat: 9.4833
+        lon: 76.7833
+      - name: "Pamba"
+        lat: 9.3667
+        lon: 77.0833
+      - name: "Sabarimala"
+        lat: 9.4325
+        lon: 77.0825
+    weight: 1.0
+  - name: "Theni"
+    locations:
+      - name: "Theni"
+        lat: 10.0167
+        lon: 77.4833
+      - name: "Bodinayakanur"
+        lat: 10.0167
+        lon: 77.3500
+    weight: 0.8
+  - name: "Kottayam"
+    locations:
+      - name: "Kottayam"
+        lat: 9.5833
+        lon: 76.5167
+    weight: 0.6
+  - name: "Ernakulam"
+    locations:
+      - name: "Munnar"
+        lat: 10.0892
+        lon: 77.0597
+    weight: 0.5
+
+# --- Route Points: Chennai → Sabarimala ---
+# Monitored individually on map with per-point rainfall
+route_points:
+  - name: "Chennai"
+    lat: 13.0827
+    lon: 80.2707
+    district: "Chennai"
+    state: "Tamil Nadu"
+    type: "city"
+  - name: "Theni"
+    lat: 10.0167
+    lon: 77.4833
+    district: "Theni"
+    state: "Tamil Nadu"
+    type: "city"
+  - name: "Bodinayakanur"
+    lat: 10.0167
+    lon: 77.3500
+    district: "Theni"
+    state: "Tamil Nadu"
+    type: "town"
+  - name: "Kumily"
+    lat: 9.6000
+    lon: 77.1667
+    district: "Idukki"
+    state: "Kerala"
+    type: "town"
+  - name: "Vandiperiyar"
+    lat: 9.5167
+    lon: 77.0833
+    district: "Idukki"
+    state: "Kerala"
+    type: "town"
+  - name: "Gavi Pass"
+    lat: 9.3833
+    lon: 77.0500
+    district: "Idukki"
+    state: "Kerala"
+    type: "pass"
+  - name: "Erumely"
+    lat: 9.4833
+    lon: 76.7833
+    district: "Pathanamthitta"
+    state: "Kerala"
+    type: "town"
+  - name: "Pamba"
+    lat: 9.3667
+    lon: 77.0833
+    district: "Pathanamthitta"
+    state: "Kerala"
+    type: "base"
+  - name: "Sabarimala Temple"
+    lat: 9.4325
+    lon: 77.0825
+    district: "Pathanamthitta"
+    state: "Kerala"
+    type: "temple"
+
+# --- Polling Intervals ---
+intervals:
+  risk_poller_hours: 1
+  digest_hour: 8  # UTC
+
+# --- Data Sources ---
+sources:
+  sachet:
+    enabled: true
+    url: "https://sachet.ndma.gov.in/cap_public_website/Feeds/atom"
+    states: ["Kerala", "Tamil Nadu"]
+  imd:
+    enabled: true
+    # Scrapes: district warnings, nowcast, subdivision warnings
+    district_warning_url: "https://mausam.imd.gov.in/imd_latest/contents/districtwise-warning.php"
+    nowcast_url: "https://mausam.imd.gov.in/imd_latest/contents/districtwise-nowcast.php"
+    subdivision_url: "https://mausam.imd.gov.in/imd_latest/contents/subdivisionwise-warning.php"
+  gsi:
+    enabled: true
+    portal_url: "https://www.gsi.gov.in/webcenter/portal/GeologicalSurveyofIndia/pages_bhukamp"
+    bhooskhalan_url: "https://bhukamp.gsi.gov.in/"
+  kerala_sdma:
+    enabled: true
+    bulletin_url: "https://sdma.kerala.gov.in/"
+    landslide_url: "https://sdma.kerala.gov.in/landslide/"
+  incois:
+    enabled: true
+    # Coastal swell / Kallakkadal warnings for Kerala
+    url: "https://incois.gov.in/portal/osf/osf.jsp"
+    alert_url: "https://incois.gov.in/portal/osf/kallakkadal.jsp"
+  cwc:
+    enabled: true
+    # Central Water Commission flood forecasting
+    flood_url: "https://ffs.india-water.gov.in/"
+  open_meteo:
+    enabled: true
+    forecast_days: 7
