@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-08-03T01:12:00+00:00",
+  "districts": {
+    "Idukki": {
+      "level": "green",
+      "since": "2026-08-03T00:00:00+00:00",
+      "sources": ["open_meteo"],
+      "rainfall_24h": 12.5,
+      "rainfall_3d": 35.2,
+      "alert_text": ""
+    },
+    "Pathanamthitta": {
+      "level": "green",
+      "since": "2026-08-03T00:00:00+00:00",
+      "sources": ["open_meteo"],
+      "rainfall_24h": 8.3,
+      "rainfall_3d": 22.1,
+      "alert_text": ""
+    },
+    "Theni": {
+      "level": "green",
+      "since": "2026-08-03T00:00:00+00:00",
+      "sources": ["open_meteo"],
+      "rainfall_24h": 15.0,
+      "rainfall_3d": 41.0,
+      "alert_text": ""
+    }
+  },
+  "latest_alerts": [],
+  "all_alerts": []
+}
