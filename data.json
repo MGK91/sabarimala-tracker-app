@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-10T20:55:07.688669+00:00",
+  "generated_at": "2026-08-10T21:55:48.558679+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-10T20:55:07.688561+00:00",
+      "since": "2026-08-10T21:55:48.558613+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-10T20:55:07.688612+00:00",
+      "since": "2026-08-10T21:55:48.558636+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-10T20:55:07.688620+00:00",
+      "since": "2026-08-10T21:55:48.558642+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-10T20:55:07.688626+00:00",
+      "since": "2026-08-10T21:55:48.558646+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-10T20:55:07.688632+00:00",
+      "since": "2026-08-10T21:55:48.558650+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -82,22 +82,22 @@
       "rainfall_3d": 15.5,
       "rainfall_7d": 0
     },
-    "Theni": {
-      "lat": 10.0167,
-      "lon": 77.4833,
-      "district": "Theni",
-      "type": "city",
-      "rainfall_24h": 1.1,
-      "rainfall_3d": 9.4,
+    "Gavi Pass": {
+      "lat": 9.3833,
+      "lon": 77.05,
+      "district": "Idukki",
+      "type": "pass",
+      "rainfall_24h": 10.2,
+      "rainfall_3d": 40.3,
       "rainfall_7d": 0
     },
-    "Bodinayakanur": {
-      "lat": 10.0167,
-      "lon": 77.35,
-      "district": "Theni",
+    "Erumely": {
+      "lat": 9.4833,
+      "lon": 76.7833,
+      "district": "Pathanamthitta",
       "type": "town",
-      "rainfall_24h": 2.9,
-      "rainfall_3d": 20.1,
+      "rainfall_24h": 2.3,
+      "rainfall_3d": 28.400000000000002,
       "rainfall_7d": 0
     },
     "Pamba": {
