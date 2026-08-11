@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T15:08:09.061472+00:00",
+  "generated_at": "2026-08-11T17:06:37.744285+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-11T15:08:09.061342+00:00",
+      "since": "2026-08-11T17:06:37.744174+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-11T15:08:09.061380+00:00",
+      "since": "2026-08-11T17:06:37.744211+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-11T15:08:09.061417+00:00",
+      "since": "2026-08-11T17:06:37.744222+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-11T15:08:09.061423+00:00",
+      "since": "2026-08-11T17:06:37.744231+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-11T15:08:09.061430+00:00",
+      "since": "2026-08-11T17:06:37.744239+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -125,6 +125,15 @@
       "type": "pass",
       "rainfall_24h": 7.9,
       "rainfall_3d": 39.1,
+      "rainfall_7d": 0
+    },
+    "Erumely": {
+      "lat": 9.4833,
+      "lon": 76.7833,
+      "district": "Pathanamthitta",
+      "type": "town",
+      "rainfall_24h": 8.2,
+      "rainfall_3d": 26.8,
       "rainfall_7d": 0
     }
   },
