@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-11T17:06:37.744285+00:00",
+  "generated_at": "2026-08-11T19:14:10.657387+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-11T17:06:37.744174+00:00",
+      "since": "2026-08-11T19:14:10.657293+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 16.700000000000003,
-      "rainfall_3d": 81.69999999999999,
+      "rainfall_24h": 23.299999999999997,
+      "rainfall_3d": 79.1,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -17,12 +17,12 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-11T17:06:37.744211+00:00",
+      "since": "2026-08-11T19:14:10.657328+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 27.199999999999996,
-      "rainfall_3d": 98.1,
+      "rainfall_24h": 35.5,
+      "rainfall_3d": 109.50000000000001,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -31,12 +31,12 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-11T17:06:37.744222+00:00",
+      "since": "2026-08-11T19:14:10.657336+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 5.2,
-      "rainfall_3d": 43.0,
+      "rainfall_24h": 18.2,
+      "rainfall_3d": 31.2,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -45,12 +45,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-11T17:06:37.744231+00:00",
+      "since": "2026-08-11T19:14:10.657341+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 3.4,
-      "rainfall_3d": 17.9,
+      "rainfall_24h": 6.2,
+      "rainfall_3d": 25.499999999999996,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -59,12 +59,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-11T17:06:37.744239+00:00",
+      "since": "2026-08-11T19:14:10.657347+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 8.2,
-      "rainfall_3d": 30.599999999999998,
+      "rainfall_24h": 9.3,
+      "rainfall_3d": 29.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -78,8 +78,8 @@
       "lon": 80.2707,
       "district": "Chennai",
       "type": "city",
-      "rainfall_24h": 2.5,
-      "rainfall_3d": 8.0,
+      "rainfall_24h": 2.6,
+      "rainfall_3d": 13.899999999999999,
       "rainfall_7d": 0
     },
     "Theni": {
@@ -87,8 +87,8 @@
       "lon": 77.4833,
       "district": "Theni",
       "type": "city",
-      "rainfall_24h": 0.9,
-      "rainfall_3d": 10.2,
+      "rainfall_24h": 4.0,
+      "rainfall_3d": 7.8,
       "rainfall_7d": 0
     },
     "Bodinayakanur": {
@@ -96,8 +96,8 @@
       "lon": 77.35,
       "district": "Theni",
       "type": "town",
-      "rainfall_24h": 4.3,
-      "rainfall_3d": 32.8,
+      "rainfall_24h": 14.2,
+      "rainfall_3d": 23.4,
       "rainfall_7d": 0
     },
     "Kumily": {
@@ -105,8 +105,8 @@
       "lon": 77.1667,
       "district": "Idukki",
       "type": "town",
-      "rainfall_24h": 3.2,
-      "rainfall_3d": 22.2,
+      "rainfall_24h": 3.9,
+      "rainfall_3d": 13.9,
       "rainfall_7d": 0
     },
     "Vandiperiyar": {
@@ -114,8 +114,8 @@
       "lon": 77.0833,
       "district": "Idukki",
       "type": "town",
-      "rainfall_24h": 5.6,
-      "rainfall_3d": 20.4,
+      "rainfall_24h": 6.3,
+      "rainfall_3d": 26.9,
       "rainfall_7d": 0
     },
     "Gavi Pass": {
@@ -123,17 +123,8 @@
       "lon": 77.05,
       "district": "Idukki",
       "type": "pass",
-      "rainfall_24h": 7.9,
-      "rainfall_3d": 39.1,
-      "rainfall_7d": 0
-    },
-    "Erumely": {
-      "lat": 9.4833,
-      "lon": 76.7833,
-      "district": "Pathanamthitta",
-      "type": "town",
-      "rainfall_24h": 8.2,
-      "rainfall_3d": 26.8,
+      "rainfall_24h": 13.1,
+      "rainfall_3d": 38.3,
       "rainfall_7d": 0
     }
   },
