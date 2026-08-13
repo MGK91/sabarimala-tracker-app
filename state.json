@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "last_run": "2026-08-13T20:57:31.170755+00:00",
+  "last_run": "2026-08-13T21:57:13.858408+00:00",
   "last_digest": "2026-08-13T08:29:32.013608+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-13T20:57:31.170193+00:00",
+      "since": "2026-08-13T21:57:13.857911+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -19,7 +19,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-13T20:57:31.170223+00:00",
+      "since": "2026-08-13T21:57:13.857938+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -33,12 +33,12 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-13T20:57:31.170230+00:00",
+      "since": "2026-08-13T21:57:13.857944+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.3,
-      "rainfall_3d": 2.7,
+      "rainfall_24h": 1.3,
+      "rainfall_3d": 4.7,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-13T20:57:31.170234+00:00",
+      "since": "2026-08-13T21:57:13.857949+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 4.5,
+      "rainfall_3d": 24.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-13T20:57:31.170238+00:00",
+      "since": "2026-08-13T21:57:13.857953+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 9.7,
+      "rainfall_3d": 36.4,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -79,10 +79,10 @@
     "sachet": "270d2fb55aa80166",
     "imd": "31c2ecbc9454b2f3",
     "gsi": "",
-    "kerala_sdma": "226c1f8c84234cac",
+    "kerala_sdma": "3ebf225de583e97e",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
-    "open_meteo": "8245a0db7f6887ae"
+    "open_meteo": "2bf5c5e68b031574"
   },
   "notifications_sent": [],
   "route_points": {}
