@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T10:44:03.579699+00:00",
+  "generated_at": "2026-08-17T11:35:29.551122+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-17T10:44:03.579630+00:00",
+      "since": "2026-08-17T11:35:29.551014+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-17T10:44:03.579656+00:00",
+      "since": "2026-08-17T11:35:29.551040+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-17T10:44:03.579661+00:00",
+      "since": "2026-08-17T11:35:29.551066+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-17T10:44:03.579666+00:00",
+      "since": "2026-08-17T11:35:29.551073+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,12 +59,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-17T10:44:03.579670+00:00",
+      "since": "2026-08-17T11:35:29.551081+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 1.4,
+      "rainfall_3d": 13.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -73,22 +73,13 @@
     }
   },
   "route_points": {
-    "Kumily": {
-      "lat": 9.6,
-      "lon": 77.1667,
-      "district": "Idukki",
-      "type": "town",
-      "rainfall_24h": 2.1,
-      "rainfall_3d": 11.6,
-      "rainfall_7d": 0
-    },
-    "Vandiperiyar": {
-      "lat": 9.5167,
-      "lon": 77.0833,
-      "district": "Idukki",
-      "type": "town",
-      "rainfall_24h": 3.7,
-      "rainfall_3d": 17.6,
+    "Chennai": {
+      "lat": 13.0827,
+      "lon": 80.2707,
+      "district": "Chennai",
+      "type": "city",
+      "rainfall_24h": 8.5,
+      "rainfall_3d": 14.6,
       "rainfall_7d": 0
     },
     "Gavi Pass": {
