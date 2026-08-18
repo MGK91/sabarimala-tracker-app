@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "last_run": "2026-08-18T16:44:10.343251+00:00",
+  "last_run": "2026-08-18T17:39:14.393377+00:00",
   "last_digest": "2026-08-18T08:49:10.101204+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-18T16:44:10.342715+00:00",
+      "since": "2026-08-18T17:39:14.392878+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -19,7 +19,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-18T16:44:10.342747+00:00",
+      "since": "2026-08-18T17:39:14.392908+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -33,7 +33,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-18T16:44:10.342754+00:00",
+      "since": "2026-08-18T17:39:14.392914+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -47,7 +47,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-18T16:44:10.342760+00:00",
+      "since": "2026-08-18T17:39:14.392918+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -61,7 +61,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-18T16:44:10.342766+00:00",
+      "since": "2026-08-18T17:39:14.392921+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -79,7 +79,7 @@
     "sachet": "270d2fb55aa80166",
     "imd": "6134197a2191bb82",
     "gsi": "",
-    "kerala_sdma": "daa59b50239c6a27",
+    "kerala_sdma": "368f2502355c5311",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
     "open_meteo": "c2b4bfcbe50acd05"
