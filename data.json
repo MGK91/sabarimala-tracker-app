@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T20:33:33.091659+00:00",
+  "generated_at": "2026-08-18T21:32:17.896838+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-18T20:33:33.091548+00:00",
+      "since": "2026-08-18T21:32:17.896742+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-18T20:33:33.091587+00:00",
+      "since": "2026-08-18T21:32:17.896777+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-18T20:33:33.091595+00:00",
+      "since": "2026-08-18T21:32:17.896784+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-18T20:33:33.091603+00:00",
+      "since": "2026-08-18T21:32:17.896790+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-18T20:33:33.091609+00:00",
+      "since": "2026-08-18T21:32:17.896797+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -134,6 +134,15 @@
       "type": "town",
       "rainfall_24h": 2.7,
       "rainfall_3d": 8.2,
+      "rainfall_7d": 0
+    },
+    "Pamba": {
+      "lat": 9.3667,
+      "lon": 77.0833,
+      "district": "Pathanamthitta",
+      "type": "base",
+      "rainfall_24h": 5.8,
+      "rainfall_3d": 18.7,
       "rainfall_7d": 0
     }
   },
