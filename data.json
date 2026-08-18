@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-18T04:44:48.422161+00:00",
+  "generated_at": "2026-08-18T05:40:38.575183+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-18T04:44:48.422076+00:00",
+      "since": "2026-08-18T05:40:38.575077+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 18.700000000000003,
-      "rainfall_3d": 43.5,
+      "rainfall_24h": 15.3,
+      "rainfall_3d": 33.4,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-18T04:44:48.422107+00:00",
+      "since": "2026-08-18T05:40:38.575113+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-18T04:44:48.422116+00:00",
+      "since": "2026-08-18T05:40:38.575120+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-18T04:44:48.422124+00:00",
+      "since": "2026-08-18T05:40:38.575126+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-18T04:44:48.422130+00:00",
+      "since": "2026-08-18T05:40:38.575131+00:00",
       "sources": [
         "open_meteo"
       ],
