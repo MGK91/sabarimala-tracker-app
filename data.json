@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T03:09:49.496038+00:00",
+  "generated_at": "2026-08-19T04:44:55.765386+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-19T03:09:49.495966+00:00",
+      "since": "2026-08-19T04:44:55.765293+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-19T03:09:49.495995+00:00",
+      "since": "2026-08-19T04:44:55.765327+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-19T03:09:49.496001+00:00",
+      "since": "2026-08-19T04:44:55.765334+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,12 +45,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-19T03:09:49.496004+00:00",
+      "since": "2026-08-19T04:44:55.765340+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 3.0,
+      "rainfall_3d": 7.1,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -59,12 +59,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-19T03:09:49.496007+00:00",
+      "since": "2026-08-19T04:44:55.765346+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 3.7,
+      "rainfall_3d": 11.8,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -73,6 +73,24 @@
     }
   },
   "route_points": {
+    "Chennai": {
+      "lat": 13.0827,
+      "lon": 80.2707,
+      "district": "Chennai",
+      "type": "city",
+      "rainfall_24h": 0.6,
+      "rainfall_3d": 4.4,
+      "rainfall_7d": 0
+    },
+    "Theni": {
+      "lat": 10.0167,
+      "lon": 77.4833,
+      "district": "Theni",
+      "type": "city",
+      "rainfall_24h": 1.0,
+      "rainfall_3d": 1.8,
+      "rainfall_7d": 0
+    },
     "Bodinayakanur": {
       "lat": 10.0167,
       "lon": 77.35,
