@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "last_run": "2026-08-19T01:45:17.055888+00:00",
+  "last_run": "2026-08-19T03:09:49.496413+00:00",
   "last_digest": "2026-08-18T08:49:10.101204+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-19T01:45:17.055388+00:00",
+      "since": "2026-08-19T03:09:49.495966+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -19,7 +19,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-19T01:45:17.055419+00:00",
+      "since": "2026-08-19T03:09:49.495995+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -33,7 +33,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-19T01:45:17.055427+00:00",
+      "since": "2026-08-19T03:09:49.496001+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-19T01:45:17.055434+00:00",
+      "since": "2026-08-19T03:09:49.496004+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 3.0,
-      "rainfall_3d": 7.1,
+      "rainfall_24h": 0.0,
+      "rainfall_3d": 0.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-19T01:45:17.055439+00:00",
+      "since": "2026-08-19T03:09:49.496007+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 3.7,
-      "rainfall_3d": 11.8,
+      "rainfall_24h": 0.0,
+      "rainfall_3d": 0.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -77,9 +77,9 @@
   "alerts": [],
   "source_hashes": {
     "sachet": "270d2fb55aa80166",
-    "imd": "687486779d4f65b6",
+    "imd": "d0e927519ed2d218",
     "gsi": "",
-    "kerala_sdma": "b68d379ff637eaa7",
+    "kerala_sdma": "1728984ecd40de7c",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
     "open_meteo": "c50f10151e7d918e"
