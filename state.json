@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "last_run": "2026-08-21T04:51:29.642316+00:00",
+  "last_run": "2026-08-21T05:40:23.028362+00:00",
   "last_digest": "2026-08-20T08:52:15.815685+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-21T04:51:29.641824+00:00",
+      "since": "2026-08-21T05:40:23.027733+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -19,7 +19,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-21T04:51:29.641854+00:00",
+      "since": "2026-08-21T05:40:23.027769+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -33,7 +33,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-21T04:51:29.641860+00:00",
+      "since": "2026-08-21T05:40:23.027777+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-21T04:51:29.641865+00:00",
+      "since": "2026-08-21T05:40:23.027782+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 3.8,
+      "rainfall_3d": 21.700000000000003,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-21T04:51:29.641869+00:00",
+      "since": "2026-08-21T05:40:23.027786+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 7.0,
+      "rainfall_3d": 38.3,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -79,10 +79,10 @@
     "sachet": "270d2fb55aa80166",
     "imd": "1e1d2f0bae8e8da8",
     "gsi": "",
-    "kerala_sdma": "eecbd4aad2bae629",
+    "kerala_sdma": "29430bc1034a4452",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
-    "open_meteo": "6564b66ec37c491a"
+    "open_meteo": "d4b2c9ee5d48ee44"
   },
   "notifications_sent": [],
   "route_points": {}
