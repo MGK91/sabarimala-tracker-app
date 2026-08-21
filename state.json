@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "last_run": "2026-08-21T05:40:23.028362+00:00",
+  "last_run": "2026-08-21T07:00:01.329284+00:00",
   "last_digest": "2026-08-20T08:52:15.815685+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-21T05:40:23.027733+00:00",
+      "since": "2026-08-21T07:00:01.328538+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 16.5,
-      "rainfall_3d": 69.30000000000001,
+      "rainfall_24h": 17.1,
+      "rainfall_3d": 63.2,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -19,12 +19,12 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-21T05:40:23.027769+00:00",
+      "since": "2026-08-21T07:00:01.328575+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 18.2,
-      "rainfall_3d": 102.0,
+      "rainfall_24h": 15.399999999999999,
+      "rainfall_3d": 71.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -33,12 +33,12 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-21T05:40:23.027777+00:00",
+      "since": "2026-08-21T07:00:01.328587+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 1.5999999999999999,
-      "rainfall_3d": 5.9,
+      "rainfall_24h": 3.7,
+      "rainfall_3d": 8.899999999999999,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-21T05:40:23.027782+00:00",
+      "since": "2026-08-21T07:00:01.328593+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 3.8,
-      "rainfall_3d": 21.700000000000003,
+      "rainfall_24h": 3.3,
+      "rainfall_3d": 15.6,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-21T05:40:23.027786+00:00",
+      "since": "2026-08-21T07:00:01.328598+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 7.0,
-      "rainfall_3d": 38.3,
+      "rainfall_24h": 9.7,
+      "rainfall_3d": 37.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -79,10 +79,10 @@
     "sachet": "270d2fb55aa80166",
     "imd": "1e1d2f0bae8e8da8",
     "gsi": "",
-    "kerala_sdma": "29430bc1034a4452",
+    "kerala_sdma": "2d5320574fac841e",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
-    "open_meteo": "d4b2c9ee5d48ee44"
+    "open_meteo": "0bdb1909180427bc"
   },
   "notifications_sent": [],
   "route_points": {}
