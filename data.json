@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-21T23:34:25.641180+00:00",
+  "generated_at": "2026-08-22T01:41:46.301570+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-21T23:34:25.641101+00:00",
+      "since": "2026-08-22T01:41:45.483091+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 18.6,
-      "rainfall_3d": 92.1,
+      "rainfall_24h": 27.3,
+      "rainfall_3d": 106.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -16,27 +16,27 @@
       "landslide_risk": "low"
     },
     "Pathanamthitta": {
-      "level": "orange",
-      "since": "2026-08-21T23:34:25.641131+00:00",
+      "level": "green",
+      "since": "2026-08-22T01:41:45.483122+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 31.700000000000003,
-      "rainfall_3d": 145.4,
+      "rainfall_24h": 26.6,
+      "rainfall_3d": 134.8,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
       "alert_text": "",
-      "landslide_risk": "moderate"
+      "landslide_risk": "low"
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-21T23:34:25.641137+00:00",
+      "since": "2026-08-22T01:41:45.483126+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 2.2,
-      "rainfall_3d": 10.7,
+      "rainfall_24h": 2.5,
+      "rainfall_3d": 6.899999999999999,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -45,12 +45,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-21T23:34:25.641141+00:00",
+      "since": "2026-08-22T01:41:45.483130+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 7.9,
-      "rainfall_3d": 35.7,
+      "rainfall_24h": 4.4,
+      "rainfall_3d": 36.6,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -59,12 +59,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-21T23:34:25.641145+00:00",
+      "since": "2026-08-22T01:41:45.483138+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 14.1,
-      "rainfall_3d": 55.4,
+      "rainfall_24h": 15.5,
+      "rainfall_3d": 53.099999999999994,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -78,8 +78,8 @@
       "lon": 80.2707,
       "district": "Chennai",
       "type": "city",
-      "rainfall_24h": 24.0,
-      "rainfall_3d": 31.1,
+      "rainfall_24h": 11.8,
+      "rainfall_3d": 32.8,
       "rainfall_7d": 0
     },
     "Theni": {
@@ -87,8 +87,8 @@
       "lon": 77.4833,
       "district": "Theni",
       "type": "city",
-      "rainfall_24h": 0.4,
-      "rainfall_3d": 3.5999999999999996,
+      "rainfall_24h": 0.6,
+      "rainfall_3d": 2.1999999999999997,
       "rainfall_7d": 0
     },
     "Bodinayakanur": {
@@ -96,8 +96,8 @@
       "lon": 77.35,
       "district": "Theni",
       "type": "town",
-      "rainfall_24h": 1.8,
-      "rainfall_3d": 7.1,
+      "rainfall_24h": 1.9,
+      "rainfall_3d": 4.699999999999999,
       "rainfall_7d": 0
     },
     "Kumily": {
@@ -105,8 +105,8 @@
       "lon": 77.1667,
       "district": "Idukki",
       "type": "town",
-      "rainfall_24h": 2.3,
-      "rainfall_3d": 15.4,
+      "rainfall_24h": 4.8,
+      "rainfall_3d": 15.5,
       "rainfall_7d": 0
     },
     "Vandiperiyar": {
@@ -114,26 +114,8 @@
       "lon": 77.0833,
       "district": "Idukki",
       "type": "town",
-      "rainfall_24h": 8.7,
-      "rainfall_3d": 37.1,
-      "rainfall_7d": 0
-    },
-    "Gavi Pass": {
-      "lat": 9.3833,
-      "lon": 77.05,
-      "district": "Idukki",
-      "type": "pass",
-      "rainfall_24h": 9.9,
-      "rainfall_3d": 55.0,
-      "rainfall_7d": 0
-    },
-    "Erumely": {
-      "lat": 9.4833,
-      "lon": 76.7833,
-      "district": "Pathanamthitta",
-      "type": "town",
-      "rainfall_24h": 6.5,
-      "rainfall_3d": 39.5,
+      "rainfall_24h": 10.2,
+      "rainfall_3d": 39.099999999999994,
       "rainfall_7d": 0
     }
   },
