@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T13:39:01.887883+00:00",
+  "generated_at": "2026-08-22T14:31:31.109719+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-22T13:39:01.887772+00:00",
+      "since": "2026-08-22T14:31:31.109601+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "orange",
-      "since": "2026-08-22T13:39:01.887802+00:00",
+      "since": "2026-08-22T14:31:31.109639+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-22T13:39:01.887808+00:00",
+      "since": "2026-08-22T14:31:31.109652+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-22T13:39:01.887812+00:00",
+      "since": "2026-08-22T14:31:31.109661+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-22T13:39:01.887816+00:00",
+      "since": "2026-08-22T14:31:31.109668+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -116,24 +116,6 @@
       "type": "town",
       "rainfall_24h": 10.3,
       "rainfall_3d": 41.0,
-      "rainfall_7d": 0
-    },
-    "Gavi Pass": {
-      "lat": 9.3833,
-      "lon": 77.05,
-      "district": "Idukki",
-      "type": "pass",
-      "rainfall_24h": 12.5,
-      "rainfall_3d": 53.699999999999996,
-      "rainfall_7d": 0
-    },
-    "Erumely": {
-      "lat": 9.4833,
-      "lon": 76.7833,
-      "district": "Pathanamthitta",
-      "type": "town",
-      "rainfall_24h": 3.9,
-      "rainfall_3d": 42.3,
       "rainfall_7d": 0
     }
   },
