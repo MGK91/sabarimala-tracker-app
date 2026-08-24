@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T13:06:25.215530+00:00",
+  "generated_at": "2026-08-24T14:54:32.855757+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-24T13:06:25.215406+00:00",
+      "since": "2026-08-24T14:54:32.855651+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "orange",
-      "since": "2026-08-24T13:06:25.215441+00:00",
+      "since": "2026-08-24T14:54:32.855694+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-24T13:06:25.215452+00:00",
+      "since": "2026-08-24T14:54:32.855700+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-24T13:06:25.215461+00:00",
+      "since": "2026-08-24T14:54:32.855706+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-24T13:06:25.215469+00:00",
+      "since": "2026-08-24T14:54:32.855715+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -109,22 +109,13 @@
       "rainfall_3d": 22.1,
       "rainfall_7d": 0
     },
-    "Vandiperiyar": {
-      "lat": 9.5167,
-      "lon": 77.0833,
-      "district": "Idukki",
-      "type": "town",
-      "rainfall_24h": 24.3,
-      "rainfall_3d": 45.900000000000006,
-      "rainfall_7d": 0
-    },
-    "Gavi Pass": {
-      "lat": 9.3833,
-      "lon": 77.05,
-      "district": "Idukki",
-      "type": "pass",
-      "rainfall_24h": 39.3,
-      "rainfall_3d": 69.1,
+    "Sabarimala Temple": {
+      "lat": 9.4325,
+      "lon": 77.0825,
+      "district": "Pathanamthitta",
+      "type": "temple",
+      "rainfall_24h": 29.6,
+      "rainfall_3d": 56.1,
       "rainfall_7d": 0
     }
   },
