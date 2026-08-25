@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "last_run": "2026-08-25T09:49:47.852430+00:00",
+  "last_run": "2026-08-25T10:43:33.249663+00:00",
   "last_digest": "2026-08-25T08:54:42.372365+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-08-25T09:49:47.851936+00:00",
+      "since": "2026-08-25T10:43:33.249170+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -19,7 +19,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-08-25T09:49:47.851962+00:00",
+      "since": "2026-08-25T10:43:33.249195+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -33,12 +33,12 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-08-25T09:49:47.851968+00:00",
+      "since": "2026-08-25T10:43:33.249200+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 1.8,
-      "rainfall_3d": 2.0,
+      "rainfall_24h": 5.8999999999999995,
+      "rainfall_3d": 6.6,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-08-25T09:49:47.851973+00:00",
+      "since": "2026-08-25T10:43:33.249203+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 14.6,
+      "rainfall_3d": 23.3,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-08-25T09:49:47.851977+00:00",
+      "since": "2026-08-25T10:43:33.249206+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 20.8,
+      "rainfall_3d": 42.7,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -188,12 +188,12 @@
   ],
   "source_hashes": {
     "sachet": "270d2fb55aa80166",
-    "imd": "",
+    "imd": "592e5eea88b4b4ee",
     "gsi": "",
-    "kerala_sdma": "03c2884b9ae4b93c",
+    "kerala_sdma": "dee75ce3a316e9df",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
-    "open_meteo": "9fa5a291c227414e"
+    "open_meteo": "3bf6e411b334d2a2"
   },
   "notifications_sent": [
     {
