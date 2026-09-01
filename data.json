@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T14:44:34.649926+00:00",
+  "generated_at": "2026-09-01T18:20:14.823781+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-09-01T14:44:34.649855+00:00",
+      "since": "2026-09-01T18:20:14.823695+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-09-01T14:44:34.649880+00:00",
+      "since": "2026-09-01T18:20:14.823726+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-09-01T14:44:34.649884+00:00",
+      "since": "2026-09-01T18:20:14.823732+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-09-01T14:44:34.649887+00:00",
+      "since": "2026-09-01T18:20:14.823736+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-09-01T14:44:34.649891+00:00",
+      "since": "2026-09-01T18:20:14.823741+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -98,6 +98,42 @@
       "type": "town",
       "rainfall_24h": 3.1,
       "rainfall_3d": 6.9,
+      "rainfall_7d": 0
+    },
+    "Kumily": {
+      "lat": 9.6,
+      "lon": 77.1667,
+      "district": "Idukki",
+      "type": "town",
+      "rainfall_24h": 3.5,
+      "rainfall_3d": 14.8,
+      "rainfall_7d": 0
+    },
+    "Vandiperiyar": {
+      "lat": 9.5167,
+      "lon": 77.0833,
+      "district": "Idukki",
+      "type": "town",
+      "rainfall_24h": 4.7,
+      "rainfall_3d": 12.7,
+      "rainfall_7d": 0
+    },
+    "Gavi Pass": {
+      "lat": 9.3833,
+      "lon": 77.05,
+      "district": "Idukki",
+      "type": "pass",
+      "rainfall_24h": 8.5,
+      "rainfall_3d": 29.2,
+      "rainfall_7d": 0
+    },
+    "Erumely": {
+      "lat": 9.4833,
+      "lon": 76.7833,
+      "district": "Pathanamthitta",
+      "type": "town",
+      "rainfall_24h": 4.6,
+      "rainfall_3d": 12.9,
       "rainfall_7d": 0
     },
     "Pamba": {
