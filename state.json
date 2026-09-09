@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "last_run": "2026-09-08T21:47:54.976675+00:00",
+  "last_run": "2026-09-09T00:02:41.049791+00:00",
   "last_digest": "2026-09-05T08:56:03.078381+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-09-08T21:47:54.976195+00:00",
+      "since": "2026-09-09T00:02:41.049372+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -19,7 +19,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-09-08T21:47:54.976216+00:00",
+      "since": "2026-09-09T00:02:41.049397+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -33,7 +33,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-09-08T21:47:54.976221+00:00",
+      "since": "2026-09-09T00:02:41.049401+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-09-08T21:47:54.976225+00:00",
+      "since": "2026-09-09T00:02:41.049404+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 5.1,
-      "rainfall_3d": 11.5,
+      "rainfall_24h": 0.0,
+      "rainfall_3d": 0.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-09-08T21:47:54.976247+00:00",
+      "since": "2026-09-09T00:02:41.049407+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 3.4,
-      "rainfall_3d": 10.5,
+      "rainfall_24h": 0.0,
+      "rainfall_3d": 0.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -212,10 +212,10 @@
     "sachet": "270d2fb55aa80166",
     "imd": "1415165ff4e1f005",
     "gsi": "",
-    "kerala_sdma": "e2c5d5dbb5f0aacb",
+    "kerala_sdma": "98a3d6106595d18a",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
-    "open_meteo": "6990468a1e18ef5a"
+    "open_meteo": "55d222e0ec6b8abc"
   },
   "notifications_sent": [
     {
