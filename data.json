@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-20T15:55:52.444244+00:00",
+  "generated_at": "2026-09-20T18:40:22.655754+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-09-20T15:55:52.444178+00:00",
+      "since": "2026-09-20T18:40:22.655678+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-09-20T15:55:52.444207+00:00",
+      "since": "2026-09-20T18:40:22.655706+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-09-20T15:55:52.444210+00:00",
+      "since": "2026-09-20T18:40:22.655713+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-09-20T15:55:52.444213+00:00",
+      "since": "2026-09-20T18:40:22.655717+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-09-20T15:55:52.444217+00:00",
+      "since": "2026-09-20T18:40:22.655720+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -125,6 +125,33 @@
       "type": "pass",
       "rainfall_24h": 18.5,
       "rainfall_3d": 31.2,
+      "rainfall_7d": 0
+    },
+    "Erumely": {
+      "lat": 9.4833,
+      "lon": 76.7833,
+      "district": "Pathanamthitta",
+      "type": "town",
+      "rainfall_24h": 7.4,
+      "rainfall_3d": 12.4,
+      "rainfall_7d": 0
+    },
+    "Pamba": {
+      "lat": 9.3667,
+      "lon": 77.0833,
+      "district": "Pathanamthitta",
+      "type": "base",
+      "rainfall_24h": 13.9,
+      "rainfall_3d": 30.4,
+      "rainfall_7d": 0
+    },
+    "Sabarimala Temple": {
+      "lat": 9.4325,
+      "lon": 77.0825,
+      "district": "Pathanamthitta",
+      "type": "temple",
+      "rainfall_24h": 12.7,
+      "rainfall_3d": 23.700000000000003,
       "rainfall_7d": 0
     }
   },
