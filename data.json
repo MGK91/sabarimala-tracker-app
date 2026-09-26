@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T12:58:46.784914+00:00",
+  "generated_at": "2026-09-26T17:04:31.642019+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-09-26T12:58:46.784832+00:00",
+      "since": "2026-09-26T17:04:31.641939+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-09-26T12:58:46.784858+00:00",
+      "since": "2026-09-26T17:04:31.641963+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-09-26T12:58:46.784864+00:00",
+      "since": "2026-09-26T17:04:31.641968+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-09-26T12:58:46.784869+00:00",
+      "since": "2026-09-26T17:04:31.641973+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-09-26T12:58:46.784873+00:00",
+      "since": "2026-09-26T17:04:31.641977+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -73,22 +73,22 @@
     }
   },
   "route_points": {
-    "Chennai": {
-      "lat": 13.0827,
-      "lon": 80.2707,
-      "district": "Chennai",
-      "type": "city",
-      "rainfall_24h": 1.0,
-      "rainfall_3d": 3.4000000000000004,
+    "Vandiperiyar": {
+      "lat": 9.5167,
+      "lon": 77.0833,
+      "district": "Idukki",
+      "type": "town",
+      "rainfall_24h": 7.4,
+      "rainfall_3d": 13.700000000000001,
       "rainfall_7d": 0
     },
-    "Theni": {
-      "lat": 10.0167,
-      "lon": 77.4833,
-      "district": "Theni",
-      "type": "city",
-      "rainfall_24h": 0.1,
-      "rainfall_3d": 5.9,
+    "Gavi Pass": {
+      "lat": 9.3833,
+      "lon": 77.05,
+      "district": "Idukki",
+      "type": "pass",
+      "rainfall_24h": 10.0,
+      "rainfall_3d": 24.1,
       "rainfall_7d": 0
     },
     "Erumely": {
