@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-07T21:13:20.983287+00:00",
+  "generated_at": "2026-10-08T01:46:33.713327+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-10-07T21:13:20.420185+00:00",
+      "since": "2026-10-08T01:46:32.880116+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 47.3,
-      "rainfall_3d": 97.6,
+      "rainfall_24h": 58.2,
+      "rainfall_3d": 96.69999999999999,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -16,27 +16,27 @@
       "landslide_risk": "low"
     },
     "Pathanamthitta": {
-      "level": "green",
-      "since": "2026-10-07T21:13:20.420223+00:00",
+      "level": "orange",
+      "since": "2026-10-08T01:46:32.880143+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 42.900000000000006,
-      "rainfall_3d": 110.79999999999998,
+      "rainfall_24h": 69.6,
+      "rainfall_3d": 141.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
       "alert_text": "",
-      "landslide_risk": "low"
+      "landslide_risk": "moderate"
     },
     "Theni": {
       "level": "green",
-      "since": "2026-10-07T21:13:20.420235+00:00",
+      "since": "2026-10-08T01:46:32.880154+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 3.4,
-      "rainfall_3d": 4.3,
+      "rainfall_24h": 16.5,
+      "rainfall_3d": 30.1,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -45,12 +45,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-07T21:13:20.420245+00:00",
+      "since": "2026-10-08T01:46:32.880162+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 15.2,
-      "rainfall_3d": 40.3,
+      "rainfall_24h": 17.4,
+      "rainfall_3d": 40.300000000000004,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -59,12 +59,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-07T21:13:20.420260+00:00",
+      "since": "2026-10-08T01:46:32.880169+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 44.6,
-      "rainfall_3d": 77.4,
+      "rainfall_24h": 23.2,
+      "rainfall_3d": 26.8,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -78,8 +78,8 @@
       "lon": 80.2707,
       "district": "Chennai",
       "type": "city",
-      "rainfall_24h": 0.2,
-      "rainfall_3d": 0.2,
+      "rainfall_24h": 0.1,
+      "rainfall_3d": 0.1,
       "rainfall_7d": 0
     },
     "Theni": {
@@ -87,35 +87,35 @@
       "lon": 77.4833,
       "district": "Theni",
       "type": "city",
-      "rainfall_24h": 1.0,
-      "rainfall_3d": 1.2,
+      "rainfall_24h": 2.8,
+      "rainfall_3d": 6.1,
       "rainfall_7d": 0
     },
-    "Bodinayakanur": {
-      "lat": 10.0167,
-      "lon": 77.35,
-      "district": "Theni",
+    "Erumely": {
+      "lat": 9.4833,
+      "lon": 76.7833,
+      "district": "Pathanamthitta",
       "type": "town",
-      "rainfall_24h": 2.4,
-      "rainfall_3d": 3.1,
+      "rainfall_24h": 17.9,
+      "rainfall_3d": 38.89999999999999,
       "rainfall_7d": 0
     },
-    "Kumily": {
-      "lat": 9.6,
-      "lon": 77.1667,
-      "district": "Idukki",
-      "type": "town",
-      "rainfall_24h": 9.0,
-      "rainfall_3d": 14.6,
-      "rainfall_7d": 0
-    },
-    "Vandiperiyar": {
-      "lat": 9.5167,
+    "Pamba": {
+      "lat": 9.3667,
       "lon": 77.0833,
-      "district": "Idukki",
-      "type": "town",
-      "rainfall_24h": 15.7,
-      "rainfall_3d": 24.4,
+      "district": "Pathanamthitta",
+      "type": "base",
+      "rainfall_24h": 27.4,
+      "rainfall_3d": 55.099999999999994,
+      "rainfall_7d": 0
+    },
+    "Sabarimala Temple": {
+      "lat": 9.4325,
+      "lon": 77.0825,
+      "district": "Pathanamthitta",
+      "type": "temple",
+      "rainfall_24h": 24.3,
+      "rainfall_3d": 47.5,
       "rainfall_7d": 0
     }
   },
