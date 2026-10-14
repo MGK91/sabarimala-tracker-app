@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T13:36:27.976876+00:00",
+  "generated_at": "2026-10-14T18:31:02.934415+00:00",
   "districts": {
     "Idukki": {
       "level": "orange",
-      "since": "2026-10-14T13:36:27.185487+00:00",
+      "since": "2026-10-14T18:31:02.934316+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "red",
-      "since": "2026-10-14T13:36:27.185507+00:00",
+      "since": "2026-10-14T18:31:02.934346+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-10-14T13:36:27.185512+00:00",
+      "since": "2026-10-14T18:31:02.934355+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-14T13:36:27.185516+00:00",
+      "since": "2026-10-14T18:31:02.934362+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-14T13:36:27.185520+00:00",
+      "since": "2026-10-14T18:31:02.934370+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -82,22 +82,22 @@
       "rainfall_3d": 46.2,
       "rainfall_7d": 0
     },
-    "Gavi Pass": {
-      "lat": 9.3833,
-      "lon": 77.05,
-      "district": "Idukki",
-      "type": "pass",
-      "rainfall_24h": 38.7,
-      "rainfall_3d": 67.1,
+    "Theni": {
+      "lat": 10.0167,
+      "lon": 77.4833,
+      "district": "Theni",
+      "type": "city",
+      "rainfall_24h": 23.0,
+      "rainfall_3d": 27.7,
       "rainfall_7d": 0
     },
-    "Erumely": {
-      "lat": 9.4833,
-      "lon": 76.7833,
-      "district": "Pathanamthitta",
+    "Bodinayakanur": {
+      "lat": 10.0167,
+      "lon": 77.35,
+      "district": "Theni",
       "type": "town",
-      "rainfall_24h": 18.6,
-      "rainfall_3d": 63.3,
+      "rainfall_24h": 16.2,
+      "rainfall_3d": 30.0,
       "rainfall_7d": 0
     },
     "Pamba": {
