@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-16T20:54:11.306967+00:00",
+  "generated_at": "2026-10-16T23:27:41.548823+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-10-16T20:54:11.306876+00:00",
+      "since": "2026-10-16T23:27:41.548710+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -17,7 +17,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-10-16T20:54:11.306911+00:00",
+      "since": "2026-10-16T23:27:41.548748+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -31,7 +31,7 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-10-16T20:54:11.306918+00:00",
+      "since": "2026-10-16T23:27:41.548759+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -45,7 +45,7 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-16T20:54:11.306924+00:00",
+      "since": "2026-10-16T23:27:41.548767+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -59,7 +59,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-16T20:54:11.306930+00:00",
+      "since": "2026-10-16T23:27:41.548775+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -100,22 +100,22 @@
       "rainfall_3d": 17.8,
       "rainfall_7d": 0
     },
-    "Pamba": {
-      "lat": 9.3667,
-      "lon": 77.0833,
-      "district": "Pathanamthitta",
-      "type": "base",
-      "rainfall_24h": 2.4,
-      "rainfall_3d": 12.4,
+    "Kumily": {
+      "lat": 9.6,
+      "lon": 77.1667,
+      "district": "Idukki",
+      "type": "town",
+      "rainfall_24h": 0.2,
+      "rainfall_3d": 18.3,
       "rainfall_7d": 0
     },
-    "Sabarimala Temple": {
-      "lat": 9.4325,
-      "lon": 77.0825,
-      "district": "Pathanamthitta",
-      "type": "temple",
-      "rainfall_24h": 1.6,
-      "rainfall_3d": 14.9,
+    "Vandiperiyar": {
+      "lat": 9.5167,
+      "lon": 77.0833,
+      "district": "Idukki",
+      "type": "town",
+      "rainfall_24h": 2.0,
+      "rainfall_3d": 28.0,
       "rainfall_7d": 0
     }
   },
