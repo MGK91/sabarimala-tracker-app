@@ -1,44 +1,44 @@
 {
   "version": 2,
-  "last_run": "2026-10-17T22:11:54.004299+00:00",
+  "last_run": "2026-10-18T00:51:15.780356+00:00",
   "last_digest": "2026-10-17T08:33:18.627998+00:00",
   "districts": {
     "Idukki": {
-      "level": "red",
-      "since": "2026-10-17T22:11:52.410958+00:00",
+      "level": "green",
+      "since": "2026-10-18T00:51:14.306795+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 56.9,
-      "rainfall_3d": 209.4,
+      "rainfall_24h": 64.19999999999999,
+      "rainfall_3d": 133.3,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
       "alert_text": "",
-      "landslide_risk": "high"
+      "landslide_risk": "low"
     },
     "Pathanamthitta": {
-      "level": "red",
-      "since": "2026-10-17T22:11:52.410984+00:00",
+      "level": "green",
+      "since": "2026-10-18T00:51:14.306827+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 31.4,
-      "rainfall_3d": 207.0,
+      "rainfall_24h": 42.1,
+      "rainfall_3d": 130.9,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
       "alert_text": "",
-      "landslide_risk": "high"
+      "landslide_risk": "low"
     },
     "Theni": {
       "level": "green",
-      "since": "2026-10-17T22:11:52.410988+00:00",
+      "since": "2026-10-18T00:51:14.306832+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 15.100000000000001,
-      "rainfall_3d": 79.6,
+      "rainfall_24h": 21.0,
+      "rainfall_3d": 45.9,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-17T22:11:52.410991+00:00",
+      "since": "2026-10-18T00:51:14.306835+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 10.9,
-      "rainfall_3d": 57.0,
+      "rainfall_24h": 13.0,
+      "rainfall_3d": 49.2,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-17T22:11:52.410996+00:00",
+      "since": "2026-10-18T00:51:14.306839+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 28.7,
-      "rainfall_3d": 70.8,
+      "rainfall_24h": 18.2,
+      "rainfall_3d": 36.3,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -75,6 +75,28 @@
     }
   },
   "alerts": [
+    {
+      "source": "aggregator",
+      "district": "Pathanamthitta",
+      "severity": "green",
+      "title": "Risk Level Changed: red \u2192 green",
+      "body": "24h: 42.1mm | 3d: 130.9mm | 7d: 0.0mm | Landslide: low | Sources: open_meteo",
+      "timestamp": "2026-10-18T00:51:15.089537+00:00",
+      "url": "",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "source": "aggregator",
+      "district": "Idukki",
+      "severity": "green",
+      "title": "Risk Level Changed: red \u2192 green",
+      "body": "24h: 64.2mm | 3d: 133.3mm | 7d: 0.0mm | Landslide: low | Sources: open_meteo",
+      "timestamp": "2026-10-18T00:51:14.306883+00:00",
+      "url": "",
+      "lat": null,
+      "lon": null
+    },
     {
       "source": "aggregator",
       "district": "Pathanamthitta",
@@ -597,19 +619,19 @@
     "sachet": "270d2fb55aa80166",
     "imd": "73ee0b18f25a3ed3",
     "gsi": "",
-    "kerala_sdma": "803d2b12bf9bea0d",
+    "kerala_sdma": "be94cbbd7eeaed7b",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
-    "open_meteo": "d11dee454a21cbd3"
+    "open_meteo": "afc418e2f1a848df"
   },
   "notifications_sent": [
     {
-      "key": "aggregator:Idukki:red:Risk Level Changed: orange \u2192 red \ud83d\udea8 DECID",
-      "at": "2026-10-17T22:11:53.314104+00:00"
+      "key": "aggregator:Idukki:green:Risk Level Changed: red \u2192 green",
+      "at": "2026-10-18T00:51:15.089324+00:00"
     },
     {
-      "key": "aggregator:Pathanamthitta:red:Risk Level Changed: orange \u2192 red \ud83d\udea8 DECID",
-      "at": "2026-10-17T22:11:54.003739+00:00"
+      "key": "aggregator:Pathanamthitta:green:Risk Level Changed: red \u2192 green",
+      "at": "2026-10-18T00:51:15.779704+00:00"
     }
   ],
   "route_points": {}
