@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-18T05:42:10.256500+00:00",
+  "generated_at": "2026-10-18T10:51:30.910479+00:00",
   "districts": {
     "Idukki": {
-      "level": "green",
-      "since": "2026-10-18T05:42:10.256410+00:00",
+      "level": "orange",
+      "since": "2026-10-18T10:51:29.544664+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 64.19999999999999,
-      "rainfall_3d": 133.3,
+      "rainfall_24h": 34.8,
+      "rainfall_3d": 151.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
       "alert_text": "",
-      "landslide_risk": "low"
+      "landslide_risk": "moderate"
     },
     "Pathanamthitta": {
-      "level": "green",
-      "since": "2026-10-18T05:42:10.256441+00:00",
+      "level": "orange",
+      "since": "2026-10-18T10:51:29.544697+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 42.1,
-      "rainfall_3d": 130.9,
+      "rainfall_24h": 29.300000000000004,
+      "rainfall_3d": 188.3,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
       "alert_text": "",
-      "landslide_risk": "low"
+      "landslide_risk": "moderate"
     },
     "Theni": {
       "level": "green",
-      "since": "2026-10-18T05:42:10.256449+00:00",
+      "since": "2026-10-18T10:51:29.544702+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 21.0,
-      "rainfall_3d": 45.9,
+      "rainfall_24h": 24.799999999999997,
+      "rainfall_3d": 58.099999999999994,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -45,12 +45,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-18T05:42:10.256456+00:00",
+      "since": "2026-10-18T10:51:29.544706+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 13.0,
-      "rainfall_3d": 49.2,
+      "rainfall_24h": 10.8,
+      "rainfall_3d": 38.7,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -59,12 +59,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-18T05:42:10.256463+00:00",
+      "since": "2026-10-18T10:51:29.544709+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 18.2,
-      "rainfall_3d": 36.3,
+      "rainfall_24h": 18.5,
+      "rainfall_3d": 67.6,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -78,8 +78,8 @@
       "lon": 80.2707,
       "district": "Chennai",
       "type": "city",
-      "rainfall_24h": 9.8,
-      "rainfall_3d": 44.3,
+      "rainfall_24h": 13.6,
+      "rainfall_3d": 47.3,
       "rainfall_7d": 0
     },
     "Theni": {
@@ -87,8 +87,8 @@
       "lon": 77.4833,
       "district": "Theni",
       "type": "city",
-      "rainfall_24h": 7.2,
-      "rainfall_3d": 15.0,
+      "rainfall_24h": 7.4,
+      "rainfall_3d": 24.799999999999997,
       "rainfall_7d": 0
     },
     "Bodinayakanur": {
@@ -96,8 +96,8 @@
       "lon": 77.35,
       "district": "Theni",
       "type": "town",
-      "rainfall_24h": 13.8,
-      "rainfall_3d": 30.9,
+      "rainfall_24h": 17.4,
+      "rainfall_3d": 33.3,
       "rainfall_7d": 0
     },
     "Kumily": {
@@ -105,8 +105,8 @@
       "lon": 77.1667,
       "district": "Idukki",
       "type": "town",
-      "rainfall_24h": 18.2,
-      "rainfall_3d": 35.3,
+      "rainfall_24h": 11.1,
+      "rainfall_3d": 31.700000000000003,
       "rainfall_7d": 0
     },
     "Vandiperiyar": {
@@ -114,17 +114,8 @@
       "lon": 77.0833,
       "district": "Idukki",
       "type": "town",
-      "rainfall_24h": 28.9,
-      "rainfall_3d": 55.2,
-      "rainfall_7d": 0
-    },
-    "Gavi Pass": {
-      "lat": 9.3833,
-      "lon": 77.05,
-      "district": "Idukki",
-      "type": "pass",
-      "rainfall_24h": 17.1,
-      "rainfall_3d": 42.800000000000004,
+      "rainfall_24h": 13.1,
+      "rainfall_3d": 59.5,
       "rainfall_7d": 0
     }
   },
