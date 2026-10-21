@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-21T04:22:16.475384+00:00",
+  "generated_at": "2026-10-21T10:01:40.265596+00:00",
   "districts": {
     "Idukki": {
-      "level": "orange",
-      "since": "2026-10-21T04:22:15.904026+00:00",
+      "level": "red",
+      "since": "2026-10-21T10:01:39.420284+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 91.5,
-      "rainfall_3d": 197.2,
+      "rainfall_24h": 65.5,
+      "rainfall_3d": 225.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
       "alert_text": "",
-      "landslide_risk": "moderate"
+      "landslide_risk": "high"
     },
     "Pathanamthitta": {
       "level": "red",
-      "since": "2026-10-21T04:22:15.904054+00:00",
+      "since": "2026-10-21T10:01:39.420314+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 127.80000000000001,
-      "rainfall_3d": 245.40000000000003,
+      "rainfall_24h": 89.1,
+      "rainfall_3d": 262.20000000000005,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -31,12 +31,12 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-10-21T04:22:15.904062+00:00",
+      "since": "2026-10-21T10:01:39.420319+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 30.8,
-      "rainfall_3d": 83.1,
+      "rainfall_24h": 51.3,
+      "rainfall_3d": 132.9,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -45,12 +45,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-21T04:22:15.904070+00:00",
+      "since": "2026-10-21T10:01:39.420323+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 14.9,
-      "rainfall_3d": 68.9,
+      "rainfall_24h": 19.5,
+      "rainfall_3d": 87.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -59,12 +59,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-21T04:22:15.904077+00:00",
+      "since": "2026-10-21T10:01:39.420326+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 42.1,
-      "rainfall_3d": 69.30000000000001,
+      "rainfall_24h": 61.6,
+      "rainfall_3d": 91.89999999999999,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -78,26 +78,26 @@
       "lon": 80.2707,
       "district": "Chennai",
       "type": "city",
-      "rainfall_24h": 17.4,
-      "rainfall_3d": 44.2,
+      "rainfall_24h": 27.2,
+      "rainfall_3d": 52.0,
       "rainfall_7d": 0
     },
-    "Gavi Pass": {
-      "lat": 9.3833,
-      "lon": 77.05,
-      "district": "Idukki",
-      "type": "pass",
-      "rainfall_24h": 43.2,
-      "rainfall_3d": 89.9,
+    "Theni": {
+      "lat": 10.0167,
+      "lon": 77.4833,
+      "district": "Theni",
+      "type": "city",
+      "rainfall_24h": 26.7,
+      "rainfall_3d": 77.60000000000001,
       "rainfall_7d": 0
     },
-    "Erumely": {
-      "lat": 9.4833,
-      "lon": 76.7833,
-      "district": "Pathanamthitta",
+    "Bodinayakanur": {
+      "lat": 10.0167,
+      "lon": 77.35,
+      "district": "Theni",
       "type": "town",
-      "rainfall_24h": 31.6,
-      "rainfall_3d": 75.9,
+      "rainfall_24h": 24.6,
+      "rainfall_3d": 55.3,
       "rainfall_7d": 0
     },
     "Pamba": {
@@ -105,8 +105,8 @@
       "lon": 77.0833,
       "district": "Pathanamthitta",
       "type": "base",
-      "rainfall_24h": 46.1,
-      "rainfall_3d": 80.7,
+      "rainfall_24h": 35.2,
+      "rainfall_3d": 90.00000000000001,
       "rainfall_7d": 0
     },
     "Sabarimala Temple": {
@@ -114,8 +114,8 @@
       "lon": 77.0825,
       "district": "Pathanamthitta",
       "type": "temple",
-      "rainfall_24h": 50.1,
-      "rainfall_3d": 88.8,
+      "rainfall_24h": 29.5,
+      "rainfall_3d": 89.5,
       "rainfall_7d": 0
     }
   },
