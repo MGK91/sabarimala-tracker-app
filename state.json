@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "last_run": "2026-10-25T06:00:36.800004+00:00",
+  "last_run": "2026-10-25T11:14:35.105176+00:00",
   "last_digest": "2026-10-17T08:33:18.627998+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-10-25T06:00:36.799364+00:00",
+      "since": "2026-10-25T11:14:34.347075+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 0.0,
+      "rainfall_24h": 37.6,
+      "rainfall_3d": 93.1,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -19,12 +19,12 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-10-25T06:00:36.799395+00:00",
+      "since": "2026-10-25T11:14:34.347113+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 41.5,
-      "rainfall_3d": 56.0,
+      "rainfall_24h": 30.5,
+      "rainfall_3d": 63.8,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -32,27 +32,27 @@
       "landslide_risk": "low"
     },
     "Theni": {
-      "level": "orange",
-      "since": "2026-10-25T06:00:36.799401+00:00",
+      "level": "green",
+      "since": "2026-10-25T11:14:34.347124+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 92.3,
-      "rainfall_3d": 122.89999999999999,
+      "rainfall_24h": 58.4,
+      "rainfall_3d": 88.6,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
       "alert_text": "",
-      "landslide_risk": "moderate"
+      "landslide_risk": "low"
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-25T06:00:36.799406+00:00",
+      "since": "2026-10-25T11:14:34.347130+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 2.4,
-      "rainfall_3d": 8.200000000000001,
+      "rainfall_24h": 4.1,
+      "rainfall_3d": 7.8999999999999995,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-25T06:00:36.799411+00:00",
+      "since": "2026-10-25T11:14:34.347134+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 12.5,
-      "rainfall_3d": 14.2,
+      "rainfall_24h": 4.2,
+      "rainfall_3d": 20.400000000000002,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -75,6 +75,17 @@
     }
   },
   "alerts": [
+    {
+      "source": "aggregator",
+      "district": "Theni",
+      "severity": "green",
+      "title": "Risk Level Changed: orange \u2192 green",
+      "body": "24h: 58.4mm | 3d: 88.6mm | 7d: 0.0mm | Landslide: low | Sources: open_meteo",
+      "timestamp": "2026-10-25T11:14:34.347213+00:00",
+      "url": "",
+      "lat": null,
+      "lon": null
+    },
     {
       "source": "aggregator",
       "district": "Theni",
@@ -1024,17 +1035,17 @@
   ],
   "source_hashes": {
     "sachet": "270d2fb55aa80166",
-    "imd": "e1d4fa04e257cb4a",
+    "imd": "992667e7170e21e2",
     "gsi": "",
-    "kerala_sdma": "746b5a3b50ad33d9",
+    "kerala_sdma": "bd4beeeda11c6a88",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
-    "open_meteo": "78b19746a348d3a4"
+    "open_meteo": "bfa5e282e81af436"
   },
   "notifications_sent": [
     {
-      "key": "aggregator:Theni:orange:Risk Level Changed: red \u2192 orange",
-      "at": "2026-10-25T00:59:32.019034+00:00"
+      "key": "aggregator:Theni:green:Risk Level Changed: orange \u2192 green",
+      "at": "2026-10-25T11:14:35.104479+00:00"
     }
   ],
   "route_points": {}
