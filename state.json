@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "last_run": "2026-10-26T19:08:36.367739+00:00",
+  "last_run": "2026-10-26T23:44:59.163639+00:00",
   "last_digest": "2026-10-17T08:33:18.627998+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-10-26T19:08:36.367096+00:00",
+      "since": "2026-10-26T23:44:59.162989+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -19,7 +19,7 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-10-26T19:08:36.367120+00:00",
+      "since": "2026-10-26T23:44:59.163017+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -33,12 +33,12 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-10-26T19:08:36.367133+00:00",
+      "since": "2026-10-26T23:44:59.163024+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.1,
-      "rainfall_3d": 0.7,
+      "rainfall_24h": 0.0,
+      "rainfall_3d": 0.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-26T19:08:36.367142+00:00",
+      "since": "2026-10-26T23:44:59.163028+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.4,
-      "rainfall_3d": 1.2,
+      "rainfall_24h": 0.0,
+      "rainfall_3d": 0.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,7 +61,7 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-26T19:08:36.367150+00:00",
+      "since": "2026-10-26T23:44:59.163033+00:00",
       "sources": [
         "open_meteo"
       ],
@@ -1057,9 +1057,9 @@
   ],
   "source_hashes": {
     "sachet": "270d2fb55aa80166",
-    "imd": "b26efe59da7e755e",
+    "imd": "7680e359a9924e53",
     "gsi": "",
-    "kerala_sdma": "e8b9ef4d1e9e24fe",
+    "kerala_sdma": "4ebd798786ab4207",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
     "open_meteo": "bf4164d2098476e9"
