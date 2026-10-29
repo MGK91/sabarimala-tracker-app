@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T06:56:57.176234+00:00",
+  "generated_at": "2026-10-29T14:06:58.148044+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-10-29T06:56:57.176120+00:00",
+      "since": "2026-10-29T14:06:58.147942+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 1.1,
-      "rainfall_3d": 14.2,
+      "rainfall_24h": 2.2,
+      "rainfall_3d": 33.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -17,12 +17,12 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-10-29T06:56:57.176156+00:00",
+      "since": "2026-10-29T14:06:58.147979+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.0,
-      "rainfall_3d": 18.799999999999997,
+      "rainfall_24h": 1.3,
+      "rainfall_3d": 51.0,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -31,12 +31,12 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-10-29T06:56:57.176167+00:00",
+      "since": "2026-10-29T14:06:58.147986+00:00",
       "sources": [
         "open_meteo"
       ],
       "rainfall_24h": 0.0,
-      "rainfall_3d": 0.3,
+      "rainfall_3d": 0.6,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -45,12 +45,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-10-29T06:56:57.176175+00:00",
+      "since": "2026-10-29T14:06:58.147992+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.8,
-      "rainfall_3d": 5.7,
+      "rainfall_24h": 0.4,
+      "rainfall_3d": 3.6999999999999997,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -59,12 +59,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-10-29T06:56:57.176183+00:00",
+      "since": "2026-10-29T14:06:58.147997+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 0.3,
-      "rainfall_3d": 10.0,
+      "rainfall_24h": 0.0,
+      "rainfall_3d": 8.2,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -79,7 +79,7 @@
       "district": "Chennai",
       "type": "city",
       "rainfall_24h": 0.0,
-      "rainfall_3d": 4.6,
+      "rainfall_3d": 13.0,
       "rainfall_7d": 0
     },
     "Theni": {
@@ -88,7 +88,7 @@
       "district": "Theni",
       "type": "city",
       "rainfall_24h": 0.0,
-      "rainfall_3d": 0.3,
+      "rainfall_3d": 0.6,
       "rainfall_7d": 0
     },
     "Bodinayakanur": {
@@ -105,8 +105,8 @@
       "lon": 77.1667,
       "district": "Idukki",
       "type": "town",
-      "rainfall_24h": 0.4,
-      "rainfall_3d": 2.2,
+      "rainfall_24h": 1.2,
+      "rainfall_3d": 10.5,
       "rainfall_7d": 0
     },
     "Vandiperiyar": {
@@ -114,8 +114,8 @@
       "lon": 77.0833,
       "district": "Idukki",
       "type": "town",
-      "rainfall_24h": 0.7,
-      "rainfall_3d": 4.8,
+      "rainfall_24h": 0.9,
+      "rainfall_3d": 11.8,
       "rainfall_7d": 0
     }
   },
