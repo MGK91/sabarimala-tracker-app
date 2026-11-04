@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "last_run": "2026-11-04T01:11:20.512246+00:00",
-  "last_digest": "2026-10-28T08:14:55.657144+00:00",
+  "last_run": "2026-11-04T08:57:24.271822+00:00",
+  "last_digest": "2026-11-04T08:57:24.270884+00:00",
   "districts": {
     "Idukki": {
       "level": "green",
-      "since": "2026-11-04T01:11:19.685868+00:00",
+      "since": "2026-11-04T08:57:23.438086+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 19.7,
-      "rainfall_3d": 79.19999999999999,
+      "rainfall_24h": 29.4,
+      "rainfall_3d": 86.19999999999999,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -19,12 +19,12 @@
     },
     "Pathanamthitta": {
       "level": "green",
-      "since": "2026-11-04T01:11:19.685890+00:00",
+      "since": "2026-11-04T08:57:23.438115+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 25.0,
-      "rainfall_3d": 114.69999999999999,
+      "rainfall_24h": 30.4,
+      "rainfall_3d": 111.00000000000001,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -33,12 +33,12 @@
     },
     "Theni": {
       "level": "green",
-      "since": "2026-11-04T01:11:19.685904+00:00",
+      "since": "2026-11-04T08:57:23.438121+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 5.4,
-      "rainfall_3d": 29.5,
+      "rainfall_24h": 9.600000000000001,
+      "rainfall_3d": 28.3,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -47,12 +47,12 @@
     },
     "Kottayam": {
       "level": "green",
-      "since": "2026-11-04T01:11:19.685912+00:00",
+      "since": "2026-11-04T08:57:23.438127+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 7.2,
-      "rainfall_3d": 38.0,
+      "rainfall_24h": 9.1,
+      "rainfall_3d": 30.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -61,12 +61,12 @@
     },
     "Ernakulam": {
       "level": "green",
-      "since": "2026-11-04T01:11:19.685920+00:00",
+      "since": "2026-11-04T08:57:23.438138+00:00",
       "sources": [
         "open_meteo"
       ],
-      "rainfall_24h": 20.7,
-      "rainfall_3d": 55.3,
+      "rainfall_24h": 27.5,
+      "rainfall_3d": 100.5,
       "rainfall_7d": 0.0,
       "river_level": null,
       "river_trend": "steady",
@@ -1079,12 +1079,12 @@
   ],
   "source_hashes": {
     "sachet": "270d2fb55aa80166",
-    "imd": "9c2b3d5f45d9af90",
+    "imd": "52bae7f0aa89bad8",
     "gsi": "",
-    "kerala_sdma": "debeaa547b25d9ec",
+    "kerala_sdma": "d26fedbcdc66863f",
     "incois": "31c7f41a58e04c14",
     "cwc": "",
-    "open_meteo": "2f29eccf2a48aa39"
+    "open_meteo": "e812e0d994babfab"
   },
   "notifications_sent": [
     {
